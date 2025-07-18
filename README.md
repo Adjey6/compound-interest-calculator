@@ -1,7 +1,3 @@
-Aquí tienes una propuesta para el archivo `README.md` de tu proyecto, pensando en un buen equilibrio entre claridad, utilidad y un toque atractivo.
-
------
-
 # Calculadora de Interés Compuesto Avanzada con Análisis IA ✨
 
 Este proyecto es una **calculadora interactiva de interés compuesto** que te permite visualizar el crecimiento de tus inversiones en fondos indexados a lo largo del tiempo. Va un paso más allá al integrar una funcionalidad de **Inteligencia Artificial (IA) impulsada por Gemini**, que te ofrece análisis y perspectivas personalizadas sobre tu estrategia de inversión. Además, ahora puedes simular **aportaciones adicionales únicas** en meses específicos para ver su impacto.
